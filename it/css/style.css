@@ -1191,11 +1191,11 @@ div#language,
         -moz-transition: background 0.5s ease; /* Mozilla фикс */
     }
 
-    div#language li a.facebook {background: url(../images/socialicons.png) 0 0}
-    div#language li a.facebook:hover { background: url(../images/socialicons.png) -60px 0}
+    div#language li a.uk {background: url(../images/uk.png) 0 0}
+    div#language li a.facebook:hover { background: url(../images/uk.png)}
     div#language li a.google {background: url(../images/socialicons.png) 0 -60px}
     div#language li a.google:hover {background: url(../images/socialicons.png) -60px -60px}
-    div#language li a.twitter { background: url(../images/socialicons.png) 0 -120px}
+    div#language li a.italia { background: url(../images/italia.png)}
     div#language li a.twitter:hover {background: url(../images/socialicons.png) -60px -120px}
     div#language li a.linkedin {background: url(../images/socialicons.png) 0 -180px}
     div#language li a.linkedin:hover {background: url(../images/socialicons.png) -60px -180px}
