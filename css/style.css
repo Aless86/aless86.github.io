@@ -1193,7 +1193,7 @@ div#language,
 
     div#language li a.uk {background: url(../images/uk.png) 0 0}
     div#language li a.facebook:hover { background: url(../images/uk.png)}
-    div#language li a.google {background: url(../images/socialicons.png) 0 -60px}
+    div#language li a.spain {background: url(../images/spain.png)}
     div#language li a.google:hover {background: url(../images/socialicons.png) -60px -60px}
     div#language li a.italia { background: url(../images/italia.png)}
     div#language li a.twitter:hover {background: url(../images/socialicons.png) -60px -120px}
